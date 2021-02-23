@@ -1,2 +1,2 @@
 # hello-world
- first thing
+ hello world i like to code :)
